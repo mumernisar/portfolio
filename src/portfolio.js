@@ -215,28 +215,28 @@ const openSource = {
 
 const bigProjects = {
   title: "Noteworthy Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "Some projects I have worked on in my free time!",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/natours.png"),
+      projectName: "Natours",
+      projectDesc: "A backend project with functionality for Authentication, payments, filtering, booking, and various other",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Visit Site",
+          url: "https://natours-v2.onrender.com/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/natours.png"),
+      projectName: "Sassy Natours",
+      projectDesc: "Natours site ui re created with advanced CSS and SCSS techniques",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Visit Site",
+          url: "https://sassy-natours.netlify.app/"
         }
       ]
     }
